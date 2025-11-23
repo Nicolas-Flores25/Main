@@ -31,6 +31,7 @@ class DestinationsActivity : AppCompatActivity() {
             Destination("Antigua Guatemala", "Ciudad colonial con calles empedradas.", R.mipmap.ic_launcher, 14.5573, -90.7332),
             Destination("Semuc Champey", "Pozas de agua turquesa en medio del bosque.", R.mipmap.ic_launcher, 15.5350, -89.9583),
             Destination("Chichicastenango", "Mercado de artesanías y textiles.", R.mipmap.ic_launcher, 14.9425, -91.1111)
+
         )
 
         val adapter = DestinationsAdapter(destinations) { destination ->
