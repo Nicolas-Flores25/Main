@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">proyecto_final_nicolas</string>
+    <!--Seccion para los lugares turistios-->
+    <string name="titulo">DOLCE VITA</string>
+    <string name="subtitulo">Proyecto final UDV Aplicaciones Moviles</string>
+    <string name="descripcion">DESCURE NUEVO LUGARES</string>
+    <string name="volverPerfil">Volver al Perfil</string>
+
+    <!--Seccion para login y registro de usuarios-->
+    <string name="registrarse">Registrarse</string>
+    <string name="login">Login</string>
+    <string name="crearCuenta">¿No tienes cuenta? Regístrate</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contrasena</string>
+
+    <!--Seccion para el perfil del usuario-->
+    <string name="tomarFoto">Tomar foto</string>
+    <string name="seleccionarFoto">Seleccionar Foto</string>
+    <string name="contrasenaActual">Contraseña Actual</string>
+    <string name="contrasenaNueva">Nueva Contraseña</string>
+    <string name="contrasenaCambiar">Cambiar Contraseña</string>
+    <string name="verDestinos">Ver destinos</string>
+    <string name="cerrarSesion">Cerra sesion</string>
+
+    <!-- strings para los lugares turisticos-->
+    <string name="puntaje">Tu puntaje sobre este sitio : _._</string>
+    <string name="enviarPuntaje">Enviar puntaje</string>
+    <string name="resena">Reseñas</string>
+    <string name="resena1">1.- Un lugar increíble, ¡lo recomiendo!</string>
+    <string name="resena2">2- Vistas espectaculares, pero mucha gente.</string>
+    <string name="backList">Volver a la lista</string>
+</resources>
